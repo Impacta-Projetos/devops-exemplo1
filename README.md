@@ -55,8 +55,5 @@ README.md
 - Média de consumo de energia no período.
 - Variação percentual do consumo entre o primeiro e o último mês.
 
-## Autor
-Felipewv93
-
 ---
 Projeto para estudos e demonstração de visualização de dados com Streamlit e Plotly.
